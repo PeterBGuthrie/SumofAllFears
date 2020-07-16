@@ -127,6 +127,8 @@
     <Content Include="css\mediaelementplayer.css" />
     <Content Include="css\owl.carousel.min.css" />
     <Content Include="css\owl.theme.default.min.css" />
+    <Content Include="css\prism.css" />
+    <Content Include="css\solvecodestyle.css" />
     <Content Include="css\style.css" />
     <Content Include="favicon\favicon.ico" />
     <Content Include="fonts\flaticon\backup.txt" />
@@ -157,6 +159,7 @@
     <Content Include="js\mediaelement-and-player.min.js" />
     <Content Include="js\owl.carousel.min.js" />
     <Content Include="js\popper.min.js" />
+    <Content Include="js\prism.js" />
     <Content Include="js\slick.min.js" />
     <Content Include="js\typed.js" />
     <Content Include="obj\Debug\FizzBuzz.csproj.FileListAbsolute.txt" />
